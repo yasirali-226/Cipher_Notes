@@ -11,7 +11,7 @@ No internet. No spying. Just your thoughts, hidden and secured.
 - ✅ Custom cipher replaces letters, numbers & symbols
 - ✅ Toggle between **dark/light themes**
 - ✅ Copy, save, clear your notes easily
-- ✅ Built-in **journal/notes viewer**
+- ✅ Built-in **notes viewer**
 - ✅ Delete specific saved lines with one click
 - ✅ Remembers your theme preference
 

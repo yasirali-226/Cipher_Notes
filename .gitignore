@@ -1,0 +1,19 @@
+# ⛔ Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# ⛔ Ignore editor settings
+.vscode/
+.idea/
+
+# ⛔ Ignore environment/config files
+.env
+*.env
+
+# ⛔ Ignore output created by your app
+ciphernotes.txt
+theme.json
+
+# ⛔ Ignore system files (Windows)
+Thumbs.db
